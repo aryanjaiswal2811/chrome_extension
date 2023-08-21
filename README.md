@@ -20,7 +20,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/aryanjaiswal2811/chrome_extension/tree/main/Chrome%20Extension
 Open Google Chrome.
 
 Go to chrome://extensions/.
