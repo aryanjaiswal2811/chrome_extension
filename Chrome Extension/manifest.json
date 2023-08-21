@@ -1,0 +1,11 @@
+{
+    "name": "My chrome extension",
+    "version": "1.0.0",
+    "description": "Stay updated with real-time cricket match statuses right in your browser! This extension provides quick access to the latest scores, teams, and match details, keeping you informed about ongoing and upcoming cricket matches." ,
+     "manifest_version": 3,
+    "author": "Aryan Jaiswal",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Get live cricket updates now"
+    }
+}
